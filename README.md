@@ -194,7 +194,8 @@ Organization에서 BackEnd 별도의 레파지토리에서 관리합니다.
 - `chore` : 패키지 관련 및 빌드코드 수정
 
 # 3. 소개 포스터
-- 사진
+![image](https://github.com/user-attachments/assets/babddde8-e09c-4d62-8c43-7d3b11dcb542)
+
 
 
 # 개발기간
